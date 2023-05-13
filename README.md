@@ -1,2 +1,2 @@
-# C-Cpp
+# Data Structures & Algorithms
 PTIT 
